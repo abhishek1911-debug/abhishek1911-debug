@@ -37,7 +37,7 @@ Farmers' marketplace with product listings, admin panel, billing, and user authe
 
 - 📧 abhishekvithlani95@gmail.com  
 - 📍 Ahmedabad, Gujarat  
-- 💼 [LinkedIn](www.linkedin.com/in/abhishekvithalani)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishekvithalani)
 
 ---
 
